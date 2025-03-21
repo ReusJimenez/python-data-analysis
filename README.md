@@ -64,8 +64,6 @@ jupyter notebook
 
 ## 📚 Recursos Útiles
 
-Aquí tienes algunos recursos recomendados para aprender y mejorar tus habilidades en análisis de datos:
-
-- 📖 [Pandas Documentation](https://pandas.pydata.org/docs/) – Guía oficial de Pandas.
-- 🔢 [NumPy Documentation](https://numpy.org/doc/) – Documentación de NumPy para cálculos numéricos.
-- 📊 [Matplotlib Guide](https://matplotlib.org/stable/tutorials/index.html) – Tutoriales de Matplotlib para visualización de datos.
+- 📖 [Pandas Documentation](https://pandas.pydata.org/docs/) – Guía oficial de Pandas
+- 🔢 [NumPy Documentation](https://numpy.org/doc/) – Documentación de NumPy para cálculos numéricos
+- 📊 [Matplotlib Guide](https://matplotlib.org/stable/tutorials/index.html) – Tutoriales de Matplotlib para visualización de datos
