@@ -67,3 +67,11 @@ jupyter notebook
 - 📖 [Pandas Documentation](https://pandas.pydata.org/docs/) – Guía oficial de Pandas
 - 🔢 [NumPy Documentation](https://numpy.org/doc/) – Documentación de NumPy para cálculos numéricos
 - 📊 [Matplotlib Guide](https://matplotlib.org/stable/tutorials/index.html) – Tutoriales de Matplotlib para visualización de datos
+
+## 📌 Contacto
+
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
+
+- **Nombre**: Roberto Edmundo Eustaquio Jiménez
+- **Email**: reusjimenez2002@gmail.com
+- **GitHub**: [https://github.com/ReusJimenez]
