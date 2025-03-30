@@ -1,8 +1,8 @@
-# 📊 Data Analysis Labs  
+# 📊 **Data Analysis Labs**  
 
-**Laboratorios y ejercicios prácticos de análisis de datos**  
+**Laboratorios y ejercicios prácticos de análisis de datos.**  
 
-## 📖 Descripción
+## 📝 **Descripción**  
 
 Este repositorio contiene una serie de laboratorios enfocados en análisis de datos, manipulación, visualización y modelado. Se utilizan herramientas como **Python, Pandas, NumPy, Matplotlib, Seaborn y técnicas de Machine Learning**.  
 
@@ -26,52 +26,33 @@ data-analysis-labs/
 │── Lab12_Asociación/                    # Reglas de asociación y patrones  
 │── README.md                            # Documentación del repositorio  
 
-## 🚀 Tecnologías Utilizadas  
+## 🛠 **Tecnologías Utilizadas**  
 
 - 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
 - 📊 **Jupyter Notebook**  
 - 📂 **Manejo de datos CSV y XLSX**  
 - 📈 **Técnicas de Machine Learning y Estadística**  
 
-<!-- ## 📌 Cómo Usar este Repositorio  
+## 🤝 **Contribución**  
 
-### 1️⃣ Clonar el Repositorio
+Si deseas contribuir al proyecto, sigue estos pasos:  
 
-```bash
-git clone https://github.com/ReusJimenez/data-analysis-labs.git
-cd data-analysis-labs
-```
+1. Haz un **fork** del repositorio.  
+2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).  
+3. Realiza tus cambios y haz commit (`git commit -am 'Añadir nueva característica'`).  
+4. Haz push a la rama (`git push origin feature/nueva-caracteristica`).  
+5. Abre un **Pull Request**.
 
-### 2️⃣ Crear un Entorno Virtual (Opcional)
-
-```bash
-python -m venv venv  
-source venv/bin/activate  # En Mac/Linux  
-venv\Scripts\activate  # En Windows  
-```
-
-### 3️⃣ Instalar Dependencias
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4️⃣ Ejecutar un Notebook
-
-```bash
-jupyter notebook
-``` -->
-
-## 📚 Recursos Útiles
+## 📚 **Recursos Útiles**
 
 - 📖 [Pandas Documentation](https://pandas.pydata.org/docs/) – Guía oficial de Pandas
 - 🔢 [NumPy Documentation](https://numpy.org/doc/) – Documentación de NumPy para cálculos numéricos
 - 📊 [Matplotlib Guide](https://matplotlib.org/stable/tutorials/index.html) – Tutoriales de Matplotlib para visualización de datos
 
-## 📌 Contacto
+## 📩 **Contacto**  
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
+Si tienes alguna pregunta o sugerencia, no dudes en contactar a:  
 
-- **Nombre**: Roberto Edmundo Eustaquio Jiménez
-- **Email**: reusjimenez2002@gmail.com
-- **GitHub**: [https://github.com/ReusJimenez]
+- **Nombre:** Roberto Edmundo Eustaquio Jiménez  
+- **Email:** [reusjimenez2002@gmail.com](mailto:reusjimenez2002@gmail.com)  
+- **GitHub:** [https://github.com/ReusJimenez](https://github.com/ReusJimenez)  
