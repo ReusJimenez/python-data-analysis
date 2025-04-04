@@ -1,6 +1,6 @@
 # 📊 **Data Analysis Labs**  
 
-**Laboratorios y ejercicios prácticos de análisis de datos.**  
+**Casos completos** y ejercicios prácticos de **análisis de datos**. 📊  
 
 ## 📝 **Descripción**  
 
@@ -10,11 +10,11 @@ Este repositorio contiene una serie de laboratorios enfocados en análisis de da
 
 data-analysis-labs/
 
-│── Casos Completos/                     # Casos prácticos integrales  
+│── Casos Completos/                     # **Casos prácticos integrales**  
 │── Lab00_Ejercicios de Refuerzo/        # Ejercicios básicos de análisis de datos  
-│── Lab01_Análisis de datos/             # Introducción al análisis de datos  
+│── Lab01_Pandas/                        # Fundamentos de análisis de datos con Pandas  
 │── Lab02_Manipulación de datos/         # Procesamiento y limpieza de datos  
-│── Lab03_Data_Wrangling_Avanzado/       # Técnicas avanzadas de transformación  
+│── Lab03_Data_Wrangling/                # Transformación de Datos  
 │── Lab04_Visualización/                 # Gráficos y visualización de datos  
 │── Lab05_EDA/                           # Análisis exploratorio de datos  
 │── Lab06_Análisis y Desbalanceo/        # Evaluación y manejo de datos desbalanceados  
@@ -30,7 +30,7 @@ data-analysis-labs/
 
 - 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
 - 📊 **Jupyter Notebook**  
-- 📂 **Manejo de datos CSV y XLSX**  
+- 📂 **Manejo de datos TXT, CSV y XLSX**  
 - 📈 **Técnicas de Machine Learning y Estadística**  
 
 ## 🤝 **Contribución**  
