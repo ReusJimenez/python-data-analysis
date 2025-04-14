@@ -28,10 +28,10 @@ python-data-analysis/
 │── ├── Lab03_Data_Wrangling/            # Reestructuración y combinación de datasets  
 │── ├── Lab04_Visualización/             # Visualización con Matplotlib y Seaborn  
 │── ├── Lab05_EDA/                       # Análisis exploratorio de datos  
-│── ├── Lab06_Análisis&Desbalanceo/      # Detección y manejo de datos desbalanceados  
+│── ├── Lab06_Desbalanceo/               # Detección y manejo de datos desbalanceados  
 │── ├── Lab07_Regresión_Lineal/          # Modelado con regresión lineal  
 │── ├── Lab08_Bayes/                     # Clasificación con métodos bayesianos  
-│── ├── Lab09_Regresión&Clasificación/   # Modelos de regresión y clasificación  
+│── ├── Lab09_Clasificación/             # Modelos de clasificación  
 │── ├── Lab10_K-Means/                   # Agrupamiento con K-Means  
 │── ├── Lab11_PCA_LDA/                   # Reducción de dimensionalidad  
 │── ├── Lab12_Asociación/                # Reglas de asociación y patrones frecuentes  
@@ -43,7 +43,7 @@ python-data-analysis/
 - 🐍 **Python** – Pandas, NumPy, Scikit-learn  
 - 📈 **Matplotlib** & **Seaborn** – Visualización de datos  
 - 🤖 **Machine Learning** – Modelado supervisado y no supervisado  
-- 📂 **CSV, Excel, TXT**: Formatos de datos utilizados  
+- 📂 **CSV, Excel, TXT** – Formatos de datos utilizados  
 - 📊 **Jupyter Notebook** – Entorno interactivo para desarrollo y presentación  
 
 ## 📚 **Recursos Útiles**
