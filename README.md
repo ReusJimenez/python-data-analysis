@@ -21,7 +21,8 @@ python-data-analysis/
 │── ├── Data/                      # Subcarpeta compartida para datasets de los casos  
 │  
 │── Labs/                          # Laboratorios temáticos por módulo  
-│── ├── Lab00_Ejercicios/                # Ejercicios introductorios de refuerzo  
+│── ├── Lab00_Ejercicios1/               # Ejercicios de refuerzo 1  
+│── ├── Lab00_Ejercicios2/               # Ejercicios de refuerzo 2  
 │── ├── Lab01_Pandas/                    # Fundamentos de Pandas para análisis de datos  
 │── ├── Lab02_Manipulación_Datos/        # Procesamiento y limpieza de datos  
 │── ├── Lab03_Data_Wrangling/            # Reestructuración y combinación de datasets  
@@ -40,10 +41,10 @@ python-data-analysis/
 ## 🛠 **Tecnologías Utilizadas**  
 
 - 🐍 **Python** – Pandas, NumPy, Scikit-learn  
-- 📊 **Jupyter Notebook** – Entorno interactivo para desarrollo y presentación  
 - 📈 **Matplotlib** & **Seaborn** – Visualización de datos  
 - 🤖 **Machine Learning** – Modelado supervisado y no supervisado  
 - 📂 **CSV, Excel, TXT**: Formatos de datos utilizados  
+- 📊 **Jupyter Notebook** – Entorno interactivo para desarrollo y presentación  
 
 ## 📚 **Recursos Útiles**
 
