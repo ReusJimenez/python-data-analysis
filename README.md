@@ -7,37 +7,39 @@ Laboratorios y casos completos de **análisis de datos con Python**. 📊
 Este repositorio contiene ejercicios prácticos y casos integrales que cubren las principales etapas del análisis de datos, desde la exploración hasta la aplicación de modelos de machine learning. Se utilizan herramientas como **Pandas, NumPy, Matplotlib, Seaborn, y Scikit-learn** para resolver problemas reales de **regresión, clasificación, reducción de dimensionalidad y agrupamiento**.  
 
 ## 📁 Estructura del Repositorio  
+
 ```
 python-data-analysis/  
 │  
 │── cases/                         # Casos integradores con enfoque aplicado  
-│── ├── caso01_regresion-credit-card.ipynb  
-│── ├── caso02_clasificacion-credit-card.ipynb  
-│── ├── caso03_clasificacion-bike-sharing.ipynb  
-│── ├── caso04_clasificacion-breast-cancer.ipynb  
-│── ├── caso05_pca-lda-qda.ipynb  
-│── ├── caso06_dbscan-ecommerce.ipynb  
-│── ├── caso07_apriori-fpgrowth-ecommerce.ipynb  
+│── ├── caso01-regresion-credit-card.ipynb  
+│── ├── caso02-clasificacion-credit-card.ipynb  
+│── ├── caso03-clasificacion-bike-sharing.ipynb  
+│── ├── caso04-clasificacion-breast-cancer.ipynb  
+│── ├── caso05-pca-lda-qda.ipynb  
+│── ├── caso06-dbscan-ecommerce.ipynb  
+│── ├── caso07-apriori-fpgrowth-ecommerce.ipynb  
 │── ├── data/                      # Subcarpeta compartida para datasets de los casos  
 │  
 │── labs/                          # Laboratorios temáticos por módulo  
-│── ├── lab00_ejercicios1/               # Ejercicios de refuerzo 1  
-│── ├── lab00_ejercicios2/               # Ejercicios de refuerzo 2  
-│── ├── lab01_pandas/                    # Fundamentos de Pandas para análisis de datos  
-│── ├── lab02_manipulacion-datos/        # Procesamiento y limpieza de datos  
-│── ├── lab03_data-wrangling/            # Reestructuración y combinación de datasets  
-│── ├── lab04_visualizacion/             # Visualización con Matplotlib y Seaborn  
-│── ├── lab05_eda/                       # Análisis exploratorio de datos  
-│── ├── lab06_desbalanceo/               # Detección y manejo de datos desbalanceados  
-│── ├── lab07_regresion-lineal/          # Modelado con regresión lineal  
-│── ├── lab08_bayes/                     # Clasificación con métodos bayesianos  
-│── ├── lab09_clasificacion/             # Modelos de clasificación  
-│── ├── lab10_k-means/                   # Agrupamiento con K-Means  
-│── ├── lab11_pca-lda/                   # Reducción de dimensionalidad  
-│── ├── lab12_asociacion/                # Reglas de asociación y patrones frecuentes  
+│── ├── lab00-ejercicios1/               # Ejercicios de refuerzo 1  
+│── ├── lab00-ejercicios2/               # Ejercicios de refuerzo 2  
+│── ├── lab01-pandas/                    # Fundamentos de Pandas para análisis de datos  
+│── ├── lab02-manipulacion-datos/        # Procesamiento y limpieza de datos  
+│── ├── lab03-data-wrangling/            # Reestructuración y combinación de datasets  
+│── ├── lab04-visualizacion/             # Visualización con Matplotlib y Seaborn  
+│── ├── lab05-eda/                       # Análisis exploratorio de datos  
+│── ├── lab06-desbalanceo/               # Detección y manejo de datos desbalanceados  
+│── ├── lab07-regresion-lineal/          # Modelado con regresión lineal  
+│── ├── lab08-bayes/                     # Clasificación con métodos bayesianos  
+│── ├── lab09-clasificacion/             # Modelos de clasificación  
+│── ├── lab10-k-means/                   # Agrupamiento con K-Means  
+│── ├── lab11-pca-lda/                   # Reducción de dimensionalidad  
+│── ├── lab12-asociacion/                # Reglas de asociación y patrones frecuentes  
 │  
 │── README.md                      # Documentación del repositorio  
 ```
+
 ## 🛠 **Tecnologías Utilizadas**  
 
 - 🐍 **Python** – Pandas, NumPy, Scikit-learn  
