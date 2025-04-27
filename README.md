@@ -1,70 +1,16 @@
-# 📊 **Python Data Analysis**  
+# 📊 Python Data Analysis
 
-Casos completos y laboratorios de **análisis de datos con Python**. 📊  
-
-## 📝 **Descripción**  
-
-Este repositorio contiene ejercicios prácticos y casos integrales que cubren las principales etapas del análisis de datos, desde la exploración hasta la aplicación de modelos de machine learning. Se utilizan herramientas como **Pandas, NumPy, Matplotlib, Seaborn, y Scikit-learn** para resolver problemas reales de **regresión, clasificación, reducción de dimensionalidad y agrupamiento**.  
+Este repositorio contiene ejercicios de mi proceso de aprendizaje en análisis de datos, abarcando las principales etapas: desde la exploración hasta la aplicación de modelos básicos de machine learning.
 
 > 🚧 En construcción. El contenido seguirá creciendo conforme avance el aprendizaje.
 
-## 📁 **Estructura del Repositorio**  
+## 🛠️ Tecnologías Utilizadas
 
-```
-python-data-analysis/
-│
-├── cases/                             # Casos integradores con enfoque aplicado
-│   ├── caso01-regresion-creditcard.ipynb
-│   ├── caso02-clasificacion-creditcard.ipynb
-│   ├── caso03-clasificacion-bikebuyer.ipynb
-│   ├── caso04-clasificacion-breastcancer.ipynb
-│   ├── caso05-pca-lda-qda.ipynb
-│   ├── caso06-dbscan-ecommerce.ipynb
-│   ├── caso07-apriori-fpgrowth-ecommerce.ipynb
-│   └── data/                          # Subcarpeta compartida para datasets de los casos
-│
-├── labs/                              # Laboratorios temáticos por módulo
-│   ├── lab01-pandas&numpy/               # Fundamentos de Pandas y NumPy
-│   ├── lab02-manipulacion-datos/         # Procesamiento y limpieza de datos
-│   ├── lab03-data-wrangling/             # Reestructuración y combinación de datasets
-│   ├── lab04-visualizacion/              # Visualización con Matplotlib y Seaborn
-│   ├── lab05-eda/                        # Análisis exploratorio de datos
-│   ├── lab06-desbalanceo/                # Detección y manejo de datos desbalanceados
-│   ├── lab07-regresion-lineal/           # Modelado con regresión lineal
-│   ├── lab08-bayes/                      # Clasificación con métodos bayesianos
-│   ├── lab09-clasificacion/              # Modelos de clasificación (árboles, random forest, etc.)
-│   ├── lab10-k-means/                    # Agrupamiento con K-Means
-│   ├── lab11-pca-lda/                    # Reducción de dimensionalidad (PCA, LDA)
-│   ├── lab12-asociacion/                 # Reglas de asociación (a-priori, fp-growth, etc.)
-│   └── lab13-ejercicios-refuerzo/        # Ejercicios extra de práctica y repaso
-│
-└── README.md                          # Documentación del repositorio
-```
+- 🐍 Python – Pandas, NumPy, Scikit-learn
+- 📈 Matplotlib & Seaborn – Visualización de datos
+- 📂 CSV, Excel, TXT – Formatos de datos utilizados
+- 📓 Jupyter Notebook – Entorno interactivo para desarrollo y presentación
 
-## 🛠 **Tecnologías Utilizadas**  
+## 📩 Contacto
 
-- 🐍 **Python** – Pandas, NumPy, Scikit-learn  
-- 📈 **Matplotlib** & **Seaborn** – Visualización de datos  
-- 🤖 **Machine Learning** – Modelado supervisado y no supervisado  
-- 📂 **CSV, Excel, TXT** – Formatos de datos utilizados  
-- 📊 **Jupyter Notebook** – Entorno interactivo para desarrollo y presentación  
-
-## 📚 **Recursos Útiles**
-
-- 📖 [Pandas Documentation](https://pandas.pydata.org/docs/) – Documentación oficial de Pandas  
-- 🔢 [NumPy Documentation](https://numpy.org/doc/) – Documentación de NumPy para cálculos numéricos  
-- 📊 [Matplotlib Guide](https://matplotlib.org/stable/tutorials/index.html) – Guías tutoriales de Matplotlib para visualización de datos  
-- 🤖 [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html) – Guía de usuario oficial de Scikit-learn  
-
-## 📩 **Contacto**  
-
-Si tienes alguna pregunta o sugerencia, no dudes en contactar a:  
-
-- **Nombre:** Roberto Edmundo Eustaquio Jiménez  
-- **Email:** [reusjimenez2002@gmail.com](mailto:reusjimenez2002@gmail.com)  
-- **GitHub:** [https://github.com/ReusJimenez](https://github.com/ReusJimenez)  
-- **LinkedIn:** [https://linkedin.com/in/roberto-eustaquio/](https://linkedin.com/in/roberto-eustaquio/)  
-
-## 📜 **Licencia**  
-
-Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para más información.
+Si tienes alguna pregunta o sugerencia, contáctame por [LinkedIn](https://linkedin.com/in/roberto-eustaquio/)
